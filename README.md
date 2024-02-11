@@ -14,3 +14,7 @@ This project focuses on analyzing house pricing in New York City. Utilizing vari
 
 *Figure: This bar chart represents the top 10 sublocalities in New York by average price. The data showcases that New York County has the highest average price, with notable differences between each area.*
 
+
+
+link to kaggle notebook: https://www.kaggle.com/code/gilos123/nyc-house-pricing
+

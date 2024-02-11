@@ -10,4 +10,7 @@ This project focuses on analyzing house pricing in New York City. Utilizing vari
 - Price Prediction Models
 - Visualization of Pricing Trends
 
+![Top 10 Sublocalities in New York by Average Price](/__results___10_0.png)
+
+*Figure: This bar chart represents the top 10 sublocalities in New York by average price. The data showcases that New York County has the highest average price, with notable differences between each area.*
 
